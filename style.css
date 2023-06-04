@@ -1,0 +1,52 @@
+img{
+    border-radius: 50%;
+}
+.top-co{
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+.Hero{
+    text-align: center;
+    color: #66bfbf;
+}
+h1{
+    color: #66bfbf;
+    text-align: center;
+}
+.top-mo{
+    text-align: center;
+}
+p{
+    color: #66bfbf;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+    text-align: center;
+}
+a{
+    color: #66bfbf;
+}
+
+.top-mk{
+    text-align: center;
+    padding-bottom: 20px;
+}
+a:hover{
+    color: #000;                                                
+}
+.top-ms{
+    text-align: center;
+    color: #66bfbf;
+    padding-bottom: 30px;
+}
+button{
+    color: #66bfbf;
+    background-color: grey;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+  }
+.bottom-container>p{
+    color: antiquewhite;
+}
